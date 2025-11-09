@@ -93,6 +93,21 @@ Inventory (Bottom -> Top):
  - ID=1, Name="Box A", Quantity=10
 ```
 
+Screenshots
+-----------
+
+![CLI screenshot](docs/images/cli.png)
+
+Scripted CLI demonstrating LIFO behavior (Add, Peek, Pop, View All).
+
+![GUI screenshot](docs/images/gui.png)
+
+Swing GUI showing input fields and Output area.
+
+![Tests screenshot](docs/images/tests.png)
+
+Programmatic test output showing PASS/FAIL.
+
 Testing
 -------
 
